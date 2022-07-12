@@ -1,4 +1,3 @@
-<html>
     <head>
         <title>TETE</title>
         <link rel="stylesheet" type="text/css" href="Styles_tp.css">
@@ -23,4 +22,3 @@
       		 <i class="fa fa-bars"></i>
       	</div>
     </body>
-</html>

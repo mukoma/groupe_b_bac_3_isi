@@ -115,3 +115,14 @@ div.gallery {
 	  color: #fff;
 	  border: red;
   }
+
+#footer{
+	background-color: rgb(167, 164, 164);
+	width: 100%;
+	height: auto;
+	display: flex;
+	flex-wrap: wrap;
+}
+#footer *{
+	flex: 1;
+}

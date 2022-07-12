@@ -1,5 +1,3 @@
-<!DOCTYPE html>
-<html>
     <head>
         <title>section</title>
         <link rel="stylesheet" type="text/css" href="Styles_tp.css">
@@ -71,4 +69,3 @@
 
         </section>
     </body>
-</html>
