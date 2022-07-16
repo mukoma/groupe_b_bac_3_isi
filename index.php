@@ -6,14 +6,14 @@
   <title>Document</title>
 </head>
   <?php 
-    include 'tete.php'
+    include 'tete.html'
   ?>
 
   <?php 
-    include 'section.php'
+    include 'section.html'
   ?>
 
   <?php 
-    include 'footer.php'
+    include 'footer.html'
   ?>
 </html>
