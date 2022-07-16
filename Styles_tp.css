@@ -75,10 +75,11 @@ body{
 /* les styles relatifs au conteneur des composant de la sections*/
 .conteneur{
 	background-color: rgb(201, 192, 192);
-	height: auto;
+	height: 500px;
 	width: 65%;
-	margin-left: 10%;
+	margin-left: 5%;
 	padding-left: 60px;
+	overflow: scroll;
 }
 /* la description des produits*/
 div.gallery {
@@ -119,3 +120,4 @@ div.gallery {
 	  color: #fff;
 	  border: red;
   }
+
