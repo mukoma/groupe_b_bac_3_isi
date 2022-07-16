@@ -70,3 +70,13 @@ body{
     background-color: chocolate;
     color: #fff;
 }
+
+
+/* les styles relatifs au conteneur des composant de la sections*/
+.conteneur{
+	background-color: rgb(201, 192, 192);
+	height: auto;
+	width: 65%;
+	margin-left: 10%;
+	padding-left: 60px;
+}
